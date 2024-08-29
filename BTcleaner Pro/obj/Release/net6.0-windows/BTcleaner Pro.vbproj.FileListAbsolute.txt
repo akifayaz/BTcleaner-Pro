@@ -1,0 +1,27 @@
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\BTcleaner Pro.exe
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\BTcleaner Pro.deps.json
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\BTcleaner Pro.runtimeconfig.json
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\BTcleaner Pro.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\BTcleaner Pro.pdb
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\Guna.UI2.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.vbproj.AssemblyReference.cache
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.ayar.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.Form1.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.home.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.Resources.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.net.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.power.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner_Pro.sistem.resources
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.vbproj.GenerateResource.cache
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.AssemblyInfoInputs.cache
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.AssemblyInfo.vb
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.vbproj.CoreCompileInputs.cache
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.vbproj.CopyComplete
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\refint\BTcleaner Pro.dll
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.pdb
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\BTcleaner Pro.genruntimeconfig.cache
+C:\Users\MonsteR\source\repos\BTcleaner Pro\BTcleaner Pro\obj\Release\net6.0-windows\ref\BTcleaner Pro.dll
