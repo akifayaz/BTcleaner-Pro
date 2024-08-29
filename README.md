@@ -6,9 +6,6 @@
 ![BTcleaner Pro Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglWcvinUO9J14Gl-qAMNxZrZQKsx2-yhyphenhyphenySDs5X0imhktehmlYoBVWh3v9vXz1mDMB3vuAXHMmy9nVxLEFmS98ljT383fSbrPZC-_y2MqM4YDlOhAKgL40_eSJqSTRMsWyeNbNr3b-sQ4DgMrZ5wCQLqIAL4FoAguy2qzGOXJKa-0LOFu9nlehmGb1ihU/s1600/btcleanerlogo.png) 
 
 
-
-Dağıtım ve kullanım koşulları için LICENSE.TXT'ye bakın.
-
 BTcleaner Pro, bilgisayarınızdaki gereksiz dosyaları temizleyen, RAM optimizasyonu sağlayan ve internet araçlarıyla donatılmış güçlü bir temizlik ve bakım yazılımıdır.
 
 ## Özellikler
@@ -71,3 +68,11 @@ AppData\Roaming\Microsoft\Windows\Cookies
 
 ## Kurulum
 Kurulum dosyasını çalıştırın ve adımları izleyin
+
+## Teşekkürler
+
+Bu projede aşağıdaki projelerden yararlannılmıştır Orijinal proje sahiplerine teşekkür ederiz.
+
+[Cleaner-PRO-VB](https://github.com/noradlb1/Cleaner-PRO-VB) 
+
+[CacheCleaner](https://github.com/jasengibson/CacheCleaner/tree/master) 
